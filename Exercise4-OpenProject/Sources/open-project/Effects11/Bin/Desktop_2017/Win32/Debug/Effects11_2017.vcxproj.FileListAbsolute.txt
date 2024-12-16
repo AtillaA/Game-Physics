@@ -1,0 +1,4 @@
+C:\Users\vanda\Documents\GitHub\gamephysicstemplate\Effects11\Bin\Desktop_2017\Win32\Debug\Effects11d.lib
+C:\Users\vanda\Documents\GitHub\gamephysicstemplate\Effects11\Bin\Desktop_2017\Win32\Debug\Effects11d.pdb
+D:\gamephysicstemplate-3\Effects11\Bin\Desktop_2017\Win32\Debug\Effects11d.lib
+D:\gamephysicstemplate-3\Effects11\Bin\Desktop_2017\Win32\Debug\Effects11d.pdb
