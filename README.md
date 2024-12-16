@@ -5,6 +5,7 @@ Technical University of Munich IN0037 Course (Winter 2020 - 2021)
 ## Attribution
 
 The exercises and skeleton code were originally provided by **Technical University of Munich** as part of the coursework for _Game Physics_ (Winter 2020) during my master's degree.
+
 <br>(Original Repository: https://github.com/GamePhysicsTUM/gamephysicstemplate/tree/master)
 <br>(Updated Repository: https://github.com/tum-pbs/game-physics-template)
 
